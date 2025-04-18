@@ -1,16 +1,15 @@
-
 {
   "name": "egocast-remotion",
   "version": "1.0.0",
   "scripts": {
-"scripts": {
-  "build": "remotion build",
-  "start": "remotion preview"
+    "build": "npx remotion build",
+    "start": "npx remotion preview"
   },
   "dependencies": {
-"@remotion/cli": "^3.3.33",
-    "remotion": "^3.3.33",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^3.3.33"
   }
 }
