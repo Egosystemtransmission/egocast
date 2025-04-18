@@ -3,8 +3,9 @@
   "name": "egocast-remotion",
   "version": "1.0.0",
   "scripts": {
-    "start": "remotion preview",
-    "build": "remotion build"
+"scripts": {
+  "build": "remotion build",
+  "start": "remotion preview"
   },
   "dependencies": {
 "@remotion/cli": "^3.3.33",
