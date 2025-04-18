@@ -1,7 +1,3 @@
-# EGOcast Remotion Starter
+# EGOcast
 
-This is a video generator template for Egosystem transmissions.
-
-- Green text
-- Typing effect
-- Glitch-ready structure
+Remotion starter for encrypted Egosystem transmissions.
