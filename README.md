@@ -1,3 +1,3 @@
 # EGOcast
 
-Remotion starter for encrypted Egosystem transmissions.
+Fresh deployable project for encrypted Egosystem transmissions.
