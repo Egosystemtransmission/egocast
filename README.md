@@ -1,3 +1,1 @@
-# EGOcast
-
-Fresh deployable project for encrypted Egosystem transmissions.
+# EGOcast Final Version\n\nThis is the clean version including Remotion installed for Vercel deployment.

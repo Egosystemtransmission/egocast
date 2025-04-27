@@ -1,0 +1,15 @@
+
+{
+  "name": "egocast-final",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx remotion build",
+    "start": "npx remotion preview",
+    "dev": "npx remotion preview"
+  },
+  "dependencies": {
+    "@remotion/cli": "^3.3.33",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
